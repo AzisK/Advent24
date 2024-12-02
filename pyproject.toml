@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "Advent24"
+version = "0.0.1"
+description = "Advent Of Code 2024"
+authors = ["Azis <azuolas.krusna@yahoo.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
