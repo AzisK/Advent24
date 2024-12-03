@@ -1,5 +1,6 @@
 from Python.utils.read_input import read_input
 
+
 data = read_input('Input/2.txt')
 
 safe_count = 0
