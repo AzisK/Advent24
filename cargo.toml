@@ -1,0 +1,13 @@
+[package]
+name = "Advent24"
+version = "0.0.1"
+authors = ["Azis <azuolas.krusna@yahoo.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "1"
+path = "Rust/src/1.rs"
